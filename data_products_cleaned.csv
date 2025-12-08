@@ -1,0 +1,101 @@
+ProductID,Category,SubCategory,ProductName,UnitPrice,Cost
+P0001,Toys,Educational,TOY_EDU_1,132.87,107.4
+P0002,Electronics,Accessory,ELE_ACC_2,130.95,100.06
+P0003,Clothing,Men,CLO_MEN_3,44.76,33.14
+P0004,Clothing,Kids,CLO_KID_4,29.55,14.48
+P0005,Electronics,Mobile,ELE_MOB_5,15.5,12.07
+P0006,Beauty,Makeup,BEA_MAK_6,74.01,43.08
+P0007,Electronics,Mobile,ELE_MOB_7,99.07,74.71
+P0008,Electronics,Laptop,ELE_LAP_8,22.28,11.14
+P0009,Clothing,Kids,CLO_KID_9,8.02,6.09
+P0010,Beauty,Skincare,BEA_SKI_10,14.81,12.15
+P0011,Beauty,Skincare,BEA_SKI_11,713.82,451.83
+P0012,Toys,Dolls,TOY_DOL_12,88.36,62.9
+P0013,Toys,Dolls,TOY_DOL_13,45.23,24.82
+P0014,Sports,Outdoor,SPO_OUT_14,13.14,6.13
+P0015,Sports,Team Sports,SPO_TEA_15,36.03,18.61
+P0016,Home & Kitchen,Appliances,HOM_APP_16,547.4,397.41
+P0017,Furniture,Bedroom,FUR_BED_17,25.27,17.77
+P0018,Toys,Action,TOY_ACT_18,34.43,26.49
+P0019,Home & Kitchen,Decor,HOM_DEC_19,138.62,68.15
+P0020,Clothing,Men,CLO_MEN_20,30.45,20.59
+P0021,Furniture,Living Room,FUR_LIV_21,25.8,12.57
+P0022,Electronics,Mobile,ELE_MOB_22,42.03,30.14
+P0023,Sports,Outdoor,SPO_OUT_23,818.22,630.15
+P0024,Home & Kitchen,Decor,HOM_DEC_24,722.65,423.58
+P0025,Beauty,Makeup,BEA_MAK_25,18.6,14.09
+P0026,Furniture,Bedroom,FUR_BED_26,325.3,181.38
+P0027,Toys,Action,TOY_ACT_27,55.97,29.57
+P0028,Beauty,Skincare,BEA_SKI_28,453.33,253.96
+P0029,Sports,Outdoor,SPO_OUT_29,93.75,68.76
+P0030,Beauty,Makeup,BEA_MAK_30,41.4,25.21
+P0031,Furniture,Office,FUR_OFF_31,104.43,64.18
+P0032,Beauty,Makeup,BEA_MAK_32,62.15,45.29
+P0033,Beauty,Skincare,BEA_SKI_33,47.81,31.21
+P0034,Toys,Educational,TOY_EDU_34,84.19,69.04
+P0035,Electronics,Laptop,ELE_LAP_35,21.89,12.25
+P0036,Furniture,Living Room,FUR_LIV_36,15.34,8.29
+P0037,Electronics,Laptop,ELE_LAP_37,61.48,48.1
+P0038,Furniture,Bedroom,FUR_BED_38,42.19,29.31
+P0039,Sports,Fitness,SPO_FIT_39,47.6,32.53
+P0040,Sports,Team Sports,SPO_TEA_40,25.25,16.53
+P0041,Furniture,Living Room,FUR_LIV_41,246.7,134.73
+P0042,Clothing,Women,CLO_WOM_42,9.86,6.23
+P0043,Home & Kitchen,Appliances,HOM_APP_43,11.09,5.81
+P0044,Toys,Action,TOY_ACT_44,136.64,115.68
+P0045,Toys,Dolls,TOY_DOL_45,131.19,106.88
+P0046,Toys,Educational,TOY_EDU_46,69.45,42.58
+P0047,Beauty,Haircare,BEA_HAI_47,125.46,59.9
+P0048,Clothing,Kids,CLO_KID_48,113.33,82.55
+P0049,Toys,Educational,TOY_EDU_49,366.28,172.71
+P0050,Clothing,Women,CLO_WOM_50,9.87,4.74
+P0051,Sports,Fitness,SPO_FIT_51,32.14,16.02
+P0052,Toys,Dolls,TOY_DOL_52,97.55,61.47
+P0053,Beauty,Skincare,BEA_SKI_53,51.37,32.27
+P0054,Toys,Action,TOY_ACT_54,42.97,29.12
+P0055,Furniture,Bedroom,FUR_BED_55,24.74,17.48
+P0056,Clothing,Men,CLO_MEN_56,20.73,16.75
+P0057,Furniture,Living Room,FUR_LIV_57,157.4,131.61
+P0058,Sports,Fitness,SPO_FIT_58,123.22,59.47
+P0059,Electronics,Laptop,ELE_LAP_59,10.64,7.7
+P0060,Beauty,Haircare,BEA_HAI_60,80.71,51.25
+P0061,Home & Kitchen,Appliances,HOM_APP_61,86.94,46.4
+P0062,Toys,Action,TOY_ACT_62,39.06,17.85
+P0063,Sports,Team Sports,SPO_TEA_63,112.94,90.69
+P0064,Sports,Outdoor,SPO_OUT_64,12.06,5.48
+P0065,Home & Kitchen,Appliances,HOM_APP_65,776.21,385.54
+P0066,Clothing,Kids,CLO_KID_66,105.53,58.77
+P0067,Beauty,Haircare,BEA_HAI_67,5.57,3.25
+P0068,Home & Kitchen,Cookware,HOM_COO_68,100.31,81.38
+P0069,Beauty,Makeup,BEA_MAK_69,85.27,65.86
+P0070,Beauty,Makeup,BEA_MAK_70,27.07,14.25
+P0071,Home & Kitchen,Appliances,HOM_APP_71,9.68,7.38
+P0072,Clothing,Kids,CLO_KID_72,149.26,69.51
+P0073,Sports,Outdoor,SPO_OUT_73,36.7,18.22
+P0074,Furniture,Bedroom,FUR_BED_74,106.15,69.24
+P0075,Furniture,Bedroom,FUR_BED_75,10.1,7.49
+P0076,Clothing,Kids,CLO_KID_76,301.81,247.89
+P0077,Clothing,Kids,CLO_KID_77,130.07,107.65
+P0078,Sports,Team Sports,SPO_TEA_78,18.31,12.84
+P0079,Electronics,Audio,ELE_AUD_79,120.53,93.1
+P0080,Sports,Team Sports,SPO_TEA_80,20.59,13.94
+P0081,Sports,Team Sports,SPO_TEA_81,143.09,110.0
+P0082,Home & Kitchen,Cookware,HOM_COO_82,28.43,21.73
+P0083,Furniture,Bedroom,FUR_BED_83,85.03,44.79
+P0084,Toys,Dolls,TOY_DOL_84,17.53,14.11
+P0085,Electronics,Accessory,ELE_ACC_85,34.17,27.5
+P0086,Furniture,Office,FUR_OFF_86,310.61,159.69
+P0087,Home & Kitchen,Appliances,HOM_APP_87,463.9,253.65
+P0088,Home & Kitchen,Decor,HOM_DEC_88,5.57,4.31
+P0089,Clothing,Women,CLO_WOM_89,39.28,18.15
+P0090,Electronics,Accessory,ELE_ACC_90,575.16,375.73
+P0091,Beauty,Skincare,BEA_SKI_91,35.24,18.67
+P0092,Beauty,Skincare,BEA_SKI_92,41.48,25.41
+P0093,Furniture,Office,FUR_OFF_93,13.08,9.16
+P0094,Home & Kitchen,Cookware,HOM_COO_94,21.21,12.17
+P0095,Beauty,Haircare,BEA_HAI_95,118.84,78.17
+P0096,Clothing,Men,CLO_MEN_96,63.84,35.05
+P0097,Home & Kitchen,Appliances,HOM_APP_97,8.15,5.49
+P0098,Beauty,Haircare,BEA_HAI_98,37.83,29.0
+P0099,Electronics,Accessory,ELE_ACC_99,5.01,2.77
+P0100,Sports,Outdoor,SPO_OUT_100,142.46,91.14

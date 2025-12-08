@@ -1,0 +1,1201 @@
+CustomerID,CustomerName,City,State,Segment
+C00001,Cust_753LC,Bengaluru,Karnataka,Retail
+C00002,Cust_8DRC1,Lucknow,Uttar Pradesh,SMB
+C00003,Cust_ERTJ5,Mumbai,Maharashtra,Retail
+C00004,Cust_871YZ,Pune,Maharashtra,Retail
+C00005,Cust_9XPSE,Pune,Maharashtra,Retail
+C00006,Cust_CATVA,Delhi,Delhi,Retail
+C00007,Cust_I64CI,Hyderabad,Telangana,Retail
+C00008,Cust_HE7UR,Ahmedabad,Gujarat,Retail
+C00009,Cust_3GDPP,Ahmedabad,Gujarat,Retail
+C00010,Cust_5BXXC,Ahmedabad,Gujarat,Retail
+C00011,Cust_2DGTF,Kolkata,West Bengal,Retail
+C00012,Cust_KI7P5,Mumbai,Maharashtra,Retail
+C00013,Cust_DXTAD,Jaipur,Rajasthan,Retail
+C00014,Cust_FRHOC,Delhi,Delhi,Corporate
+C00015,Cust_AO72K,Pune,Maharashtra,Retail
+C00016,Cust_XRGHC,Jaipur,Rajasthan,Retail
+C00017,Cust_CLBR7,Jaipur,Rajasthan,Retail
+C00018,Cust_F8CGV,Jaipur,Rajasthan,Retail
+C00019,Cust_O7UUB,Delhi,Delhi,Retail
+C00020,Cust_PVS7H,Bengaluru,Karnataka,Retail
+C00021,Cust_IOYKL,Kolkata,West Bengal,Retail
+C00022,Cust_AWUDT,Bengaluru,Karnataka,Retail
+C00023,Cust_J755N,Jaipur,Rajasthan,Retail
+C00024,Cust_PTK93,Mumbai,Maharashtra,Corporate
+C00025,Cust_A3KX7,Jaipur,Rajasthan,Corporate
+C00026,Cust_J60FK,Mumbai,Maharashtra,Retail
+C00027,Cust_ZHWJR,Delhi,Delhi,Retail
+C00028,Cust_DPJA1,Hyderabad,Telangana,Retail
+C00029,Cust_FPZUE,Chennai,Tamil Nadu,Retail
+C00030,Cust_T4UFE,Mumbai,Maharashtra,Retail
+C00031,Cust_N78BM,Chennai,Tamil Nadu,Corporate
+C00032,Cust_YMU59,Delhi,Delhi,Retail
+C00033,Cust_7IF2G,Mumbai,Maharashtra,SMB
+C00034,Cust_A0L72,Pune,Maharashtra,Retail
+C00035,Cust_J2D54,Delhi,Delhi,Corporate
+C00036,Cust_H7M35,Delhi,Delhi,Retail
+C00037,Cust_AGL58,Delhi,Delhi,Retail
+C00038,Cust_MSY4L,Chennai,Tamil Nadu,Retail
+C00039,Cust_E8G8J,Hyderabad,Telangana,Retail
+C00040,Cust_VM2P9,Bengaluru,Karnataka,Retail
+C00041,Cust_NUJZA,Bengaluru,Karnataka,Retail
+C00042,Cust_Y70HP,Jaipur,Rajasthan,Retail
+C00043,Cust_WXE6S,Kolkata,West Bengal,Retail
+C00044,Cust_LZTGX,Pune,Maharashtra,Corporate
+C00045,Cust_Y6WKT,Pune,Maharashtra,Retail
+C00046,Cust_KH2VL,Hyderabad,Telangana,Retail
+C00047,Cust_PHR62,Ahmedabad,Gujarat,Retail
+C00048,Cust_XKXWD,Mumbai,Maharashtra,SMB
+C00049,Cust_YIHAI,Delhi,Delhi,Retail
+C00050,Cust_W1Q5U,Ahmedabad,Gujarat,Retail
+C00051,Cust_RIXA1,Pune,Maharashtra,Retail
+C00052,Cust_2H2ZQ,Bengaluru,Karnataka,SMB
+C00053,Cust_I4Q2Y,Jaipur,Rajasthan,Corporate
+C00054,Cust_V86WZ,Jaipur,Rajasthan,Retail
+C00055,Cust_P6QF5,Jaipur,Rajasthan,Retail
+C00056,Cust_JIW1S,Ahmedabad,Gujarat,Retail
+C00057,Cust_JCKJL,Delhi,Delhi,Retail
+C00058,Cust_CFNFH,Jaipur,Rajasthan,Retail
+C00059,Cust_OTOHP,Pune,Maharashtra,Retail
+C00060,Cust_8A5UR,Lucknow,Uttar Pradesh,SMB
+C00061,Cust_KO64T,Kolkata,West Bengal,Retail
+C00062,Cust_26RJR,Jaipur,Rajasthan,Retail
+C00063,Cust_MYOFQ,Pune,Maharashtra,Retail
+C00064,Cust_9T6VX,Mumbai,Maharashtra,Retail
+C00065,Cust_XEQBN,Bengaluru,Karnataka,Corporate
+C00066,Cust_QM5K8,Delhi,Delhi,Retail
+C00067,Cust_JCAT9,Pune,Maharashtra,Retail
+C00068,Cust_IC8BB,Kolkata,West Bengal,Retail
+C00069,Cust_HAFEY,Delhi,Delhi,Retail
+C00070,Cust_8QJNV,Lucknow,Uttar Pradesh,Corporate
+C00071,Cust_2FLU7,Bengaluru,Karnataka,Retail
+C00072,Cust_Y8OZC,Lucknow,Uttar Pradesh,Corporate
+C00073,Cust_D14VE,Delhi,Delhi,Retail
+C00074,Cust_2MPNS,Lucknow,Uttar Pradesh,Corporate
+C00075,Cust_APRPN,Kolkata,West Bengal,Retail
+C00076,Cust_ZP08J,Ahmedabad,Gujarat,Corporate
+C00077,Cust_1Q3VL,Jaipur,Rajasthan,Retail
+C00078,Cust_3D5IQ,Delhi,Delhi,Retail
+C00079,Cust_YMRLR,Lucknow,Uttar Pradesh,Retail
+C00080,Cust_2M5ZJ,Kolkata,West Bengal,Retail
+C00081,Cust_SGIOT,Hyderabad,Telangana,Retail
+C00082,Cust_YXR2D,Delhi,Delhi,Retail
+C00083,Cust_OIXNT,Delhi,Delhi,SMB
+C00084,Cust_P0LZJ,Kolkata,West Bengal,Retail
+C00085,Cust_IZL08,Chennai,Tamil Nadu,Corporate
+C00086,Cust_G0JV1,Mumbai,Maharashtra,SMB
+C00087,Cust_KDGIG,Lucknow,Uttar Pradesh,Retail
+C00088,Cust_ZEBBK,Hyderabad,Telangana,Retail
+C00089,Cust_W1DAK,Mumbai,Maharashtra,Retail
+C00090,Cust_PGB7R,Ahmedabad,Gujarat,Retail
+C00091,Cust_OCWBF,Bengaluru,Karnataka,Retail
+C00092,Cust_8DIUO,Lucknow,Uttar Pradesh,SMB
+C00093,Cust_2ISQP,Lucknow,Uttar Pradesh,Retail
+C00094,Cust_9KWV0,Lucknow,Uttar Pradesh,Retail
+C00095,Cust_WJCIT,Delhi,Delhi,Retail
+C00096,Cust_AQVKI,Mumbai,Maharashtra,Corporate
+C00097,Cust_ZQY72,Chennai,Tamil Nadu,Retail
+C00098,Cust_X7PTX,Lucknow,Uttar Pradesh,Retail
+C00099,Cust_3CFL0,Chennai,Tamil Nadu,Retail
+C00100,Cust_7PQKO,Lucknow,Uttar Pradesh,Retail
+C00101,Cust_SRCBP,Chennai,Tamil Nadu,SMB
+C00102,Cust_VAIY4,Kolkata,West Bengal,Corporate
+C00103,Cust_89YJB,Lucknow,Uttar Pradesh,Retail
+C00104,Cust_QX6GV,Mumbai,Maharashtra,Retail
+C00105,Cust_8QOLD,Ahmedabad,Gujarat,Retail
+C00106,Cust_LYK83,Mumbai,Maharashtra,Retail
+C00107,Cust_BDJE1,Jaipur,Rajasthan,Retail
+C00108,Cust_3A5QB,Jaipur,Rajasthan,Retail
+C00109,Cust_N1W1H,Jaipur,Rajasthan,Retail
+C00110,Cust_EK5RB,Jaipur,Rajasthan,SMB
+C00111,Cust_2ZLAO,Lucknow,Uttar Pradesh,Retail
+C00112,Cust_96QE3,Delhi,Delhi,SMB
+C00113,Cust_7KZOR,Ahmedabad,Gujarat,Retail
+C00114,Cust_ITN7S,Ahmedabad,Gujarat,Retail
+C00115,Cust_5J2O7,Mumbai,Maharashtra,Corporate
+C00116,Cust_JA04U,Jaipur,Rajasthan,Retail
+C00117,Cust_5QRL1,Ahmedabad,Gujarat,Retail
+C00118,Cust_QLGZU,Pune,Maharashtra,Retail
+C00119,Cust_4OLR6,Delhi,Delhi,Retail
+C00120,Cust_NX39R,Pune,Maharashtra,SMB
+C00121,Cust_E8LD4,Hyderabad,Telangana,Corporate
+C00122,Cust_SQ0OX,Bengaluru,Karnataka,Retail
+C00123,Cust_C2JWO,Mumbai,Maharashtra,Retail
+C00124,Cust_444NL,Bengaluru,Karnataka,Retail
+C00125,Cust_5BCW7,Ahmedabad,Gujarat,Retail
+C00126,Cust_0PDW5,Delhi,Delhi,Retail
+C00127,Cust_FKBLC,Ahmedabad,Gujarat,Retail
+C00128,Cust_NFTU2,Kolkata,West Bengal,Retail
+C00129,Cust_GVNYR,Mumbai,Maharashtra,Retail
+C00130,Cust_FQJJA,Lucknow,Uttar Pradesh,Retail
+C00131,Cust_6YFPM,Ahmedabad,Gujarat,Retail
+C00132,Cust_K8YQK,Lucknow,Uttar Pradesh,Retail
+C00133,Cust_4DNMK,Pune,Maharashtra,SMB
+C00134,Cust_A3OA5,Chennai,Tamil Nadu,Corporate
+C00135,Cust_60361,Hyderabad,Telangana,Retail
+C00136,Cust_VMWWY,Delhi,Delhi,Retail
+C00137,Cust_W6XLP,Mumbai,Maharashtra,Corporate
+C00138,Cust_NE6LO,Lucknow,Uttar Pradesh,SMB
+C00139,Cust_ET8T6,Delhi,Delhi,Corporate
+C00140,Cust_J3R30,Mumbai,Maharashtra,Retail
+C00141,Cust_2QC1I,Kolkata,West Bengal,SMB
+C00142,Cust_82N2A,Pune,Maharashtra,Retail
+C00143,Cust_EN0JN,Jaipur,Rajasthan,Retail
+C00144,Cust_DIA5U,Kolkata,West Bengal,SMB
+C00145,Cust_HC36K,Lucknow,Uttar Pradesh,Retail
+C00146,Cust_EBB9E,Pune,Maharashtra,SMB
+C00147,Cust_5EQY0,Delhi,Delhi,Retail
+C00148,Cust_P0FOD,Jaipur,Rajasthan,SMB
+C00149,Cust_W7KYH,Ahmedabad,Gujarat,Retail
+C00150,Cust_84DYT,Ahmedabad,Gujarat,SMB
+C00151,Cust_CJ883,Kolkata,West Bengal,Retail
+C00152,Cust_XXVA2,Bengaluru,Karnataka,Retail
+C00153,Cust_92H3T,Delhi,Delhi,Retail
+C00154,Cust_H5LF6,Lucknow,Uttar Pradesh,Retail
+C00155,Cust_J99T2,Hyderabad,Telangana,Retail
+C00156,Cust_XAA2I,Bengaluru,Karnataka,Retail
+C00157,Cust_AJEPE,Kolkata,West Bengal,Retail
+C00158,Cust_R2SDS,Bengaluru,Karnataka,Retail
+C00159,Cust_B25SQ,Lucknow,Uttar Pradesh,Retail
+C00160,Cust_CROYR,Hyderabad,Telangana,SMB
+C00161,Cust_CCVCJ,Ahmedabad,Gujarat,Retail
+C00162,Cust_TL9TQ,Lucknow,Uttar Pradesh,Retail
+C00163,Cust_P2EX5,Lucknow,Uttar Pradesh,Retail
+C00164,Cust_ZHQIM,Jaipur,Rajasthan,Retail
+C00165,Cust_O0LLJ,Ahmedabad,Gujarat,Retail
+C00166,Cust_YRDDP,Mumbai,Maharashtra,Retail
+C00167,Cust_3UVUL,Kolkata,West Bengal,Corporate
+C00168,Cust_O57P6,Bengaluru,Karnataka,Retail
+C00169,Cust_8VMUH,Hyderabad,Telangana,Retail
+C00170,Cust_ID4N1,Ahmedabad,Gujarat,Retail
+C00171,Cust_IPU1W,Lucknow,Uttar Pradesh,Retail
+C00172,Cust_A73JG,Jaipur,Rajasthan,Retail
+C00173,Cust_7MGFX,Chennai,Tamil Nadu,Corporate
+C00174,Cust_FWB0H,Bengaluru,Karnataka,Retail
+C00175,Cust_QFLL7,Pune,Maharashtra,Retail
+C00176,Cust_DBFWY,Lucknow,Uttar Pradesh,Retail
+C00177,Cust_PPVOH,Chennai,Tamil Nadu,Corporate
+C00178,Cust_EPKYR,Jaipur,Rajasthan,Retail
+C00179,Cust_BOVAK,Chennai,Tamil Nadu,Retail
+C00180,Cust_11KER,Delhi,Delhi,Retail
+C00181,Cust_GNZS4,Pune,Maharashtra,Retail
+C00182,Cust_C5BA7,Kolkata,West Bengal,SMB
+C00183,Cust_UUZPE,Kolkata,West Bengal,Retail
+C00184,Cust_8G8QY,Hyderabad,Telangana,Retail
+C00185,Cust_D4IVS,Kolkata,West Bengal,SMB
+C00186,Cust_50H2C,Pune,Maharashtra,Retail
+C00187,Cust_TG1M8,Bengaluru,Karnataka,Retail
+C00188,Cust_IFHV1,Mumbai,Maharashtra,Retail
+C00189,Cust_G1R11,Bengaluru,Karnataka,Retail
+C00190,Cust_Y5X9L,Ahmedabad,Gujarat,Retail
+C00191,Cust_FCPKJ,Kolkata,West Bengal,Corporate
+C00192,Cust_MCQBN,Hyderabad,Telangana,Retail
+C00193,Cust_C54WS,Chennai,Tamil Nadu,Retail
+C00194,Cust_U80B6,Ahmedabad,Gujarat,Corporate
+C00195,Cust_XLRFC,Lucknow,Uttar Pradesh,Retail
+C00196,Cust_349DX,Bengaluru,Karnataka,Retail
+C00197,Cust_IPPSF,Hyderabad,Telangana,Retail
+C00198,Cust_7N1YB,Kolkata,West Bengal,Corporate
+C00199,Cust_CDYK0,Kolkata,West Bengal,Corporate
+C00200,Cust_5MUFM,Lucknow,Uttar Pradesh,SMB
+C00201,Cust_EZDUX,Pune,Maharashtra,Corporate
+C00202,Cust_3Y30Y,Kolkata,West Bengal,Retail
+C00203,Cust_DYSAL,Jaipur,Rajasthan,Retail
+C00204,Cust_M1G9F,Delhi,Delhi,Corporate
+C00205,Cust_4D145,Chennai,Tamil Nadu,Retail
+C00206,Cust_X5WVF,Hyderabad,Telangana,Retail
+C00207,Cust_313FP,Mumbai,Maharashtra,Retail
+C00208,Cust_NZ8V1,Pune,Maharashtra,Retail
+C00209,Cust_II826,Ahmedabad,Gujarat,SMB
+C00210,Cust_N89QK,Delhi,Delhi,Retail
+C00211,Cust_SPFHV,Pune,Maharashtra,Retail
+C00212,Cust_BRN7Z,Chennai,Tamil Nadu,SMB
+C00213,Cust_4K1J6,Jaipur,Rajasthan,Retail
+C00214,Cust_3D635,Mumbai,Maharashtra,Retail
+C00215,Cust_OONNC,Hyderabad,Telangana,Retail
+C00216,Cust_B74X2,Delhi,Delhi,Corporate
+C00217,Cust_B7R31,Mumbai,Maharashtra,Corporate
+C00218,Cust_QACJ4,Ahmedabad,Gujarat,Corporate
+C00219,Cust_7VP1I,Jaipur,Rajasthan,Retail
+C00220,Cust_BP2QD,Bengaluru,Karnataka,Retail
+C00221,Cust_VASIF,Ahmedabad,Gujarat,Corporate
+C00222,Cust_AMUGY,Pune,Maharashtra,Corporate
+C00223,Cust_9CSS9,Jaipur,Rajasthan,Retail
+C00224,Cust_A5BNN,Jaipur,Rajasthan,Retail
+C00225,Cust_MCIXD,Hyderabad,Telangana,SMB
+C00226,Cust_0LBT3,Lucknow,Uttar Pradesh,Corporate
+C00227,Cust_3Y9RG,Mumbai,Maharashtra,Corporate
+C00228,Cust_C1QKB,Mumbai,Maharashtra,Corporate
+C00229,Cust_5LLO3,Delhi,Delhi,Retail
+C00230,Cust_J1GM2,Ahmedabad,Gujarat,Retail
+C00231,Cust_J2POP,Kolkata,West Bengal,Retail
+C00232,Cust_MGYN2,Pune,Maharashtra,Retail
+C00233,Cust_20CV3,Chennai,Tamil Nadu,Retail
+C00234,Cust_KDLKQ,Jaipur,Rajasthan,Retail
+C00235,Cust_FPQ06,Pune,Maharashtra,Retail
+C00236,Cust_9J98C,Lucknow,Uttar Pradesh,Retail
+C00237,Cust_N2Y8F,Pune,Maharashtra,Retail
+C00238,Cust_YPEIX,Lucknow,Uttar Pradesh,Retail
+C00239,Cust_NUVY8,Kolkata,West Bengal,Retail
+C00240,Cust_PCENL,Kolkata,West Bengal,Retail
+C00241,Cust_IE0RN,Chennai,Tamil Nadu,Retail
+C00242,Cust_E1ZHW,Jaipur,Rajasthan,SMB
+C00243,Cust_HECGZ,Ahmedabad,Gujarat,Retail
+C00244,Cust_389YZ,Bengaluru,Karnataka,Retail
+C00245,Cust_T64Z7,Jaipur,Rajasthan,Retail
+C00246,Cust_2SEHE,Mumbai,Maharashtra,Retail
+C00247,Cust_ATN2T,Ahmedabad,Gujarat,Retail
+C00248,Cust_5COZR,Lucknow,Uttar Pradesh,Corporate
+C00249,Cust_13C9X,Pune,Maharashtra,Corporate
+C00250,Cust_QSE3T,Ahmedabad,Gujarat,Retail
+C00251,Cust_G8P6B,Lucknow,Uttar Pradesh,Retail
+C00252,Cust_SKF7I,Bengaluru,Karnataka,SMB
+C00253,Cust_64JWT,Jaipur,Rajasthan,Corporate
+C00254,Cust_WWDXV,Mumbai,Maharashtra,Retail
+C00255,Cust_FXZV4,Lucknow,Uttar Pradesh,Retail
+C00256,Cust_B5C81,Lucknow,Uttar Pradesh,Retail
+C00257,Cust_X1OXR,Chennai,Tamil Nadu,Retail
+C00258,Cust_K8R2Y,Jaipur,Rajasthan,Retail
+C00259,Cust_QYFOQ,Chennai,Tamil Nadu,Retail
+C00260,Cust_VLZ04,Kolkata,West Bengal,Retail
+C00261,Cust_ENULQ,Pune,Maharashtra,Retail
+C00262,Cust_QFB85,Chennai,Tamil Nadu,Corporate
+C00263,Cust_I5FLU,Pune,Maharashtra,Corporate
+C00264,Cust_GF9Q5,Kolkata,West Bengal,Retail
+C00265,Cust_A8S8H,Ahmedabad,Gujarat,Corporate
+C00266,Cust_BKV4Y,Kolkata,West Bengal,Retail
+C00267,Cust_T4P50,Chennai,Tamil Nadu,Corporate
+C00268,Cust_NOUHT,Pune,Maharashtra,Retail
+C00269,Cust_NQT3W,Bengaluru,Karnataka,Retail
+C00270,Cust_E9O2M,Lucknow,Uttar Pradesh,Retail
+C00271,Cust_1HSSB,Kolkata,West Bengal,Retail
+C00272,Cust_Z2SF6,Mumbai,Maharashtra,SMB
+C00273,Cust_LWF90,Mumbai,Maharashtra,Retail
+C00274,Cust_VSSRU,Chennai,Tamil Nadu,Retail
+C00275,Cust_3NY9V,Ahmedabad,Gujarat,Retail
+C00276,Cust_VJX8U,Hyderabad,Telangana,Retail
+C00277,Cust_ZVGWW,Delhi,Delhi,Retail
+C00278,Cust_FYB8D,Pune,Maharashtra,Retail
+C00279,Cust_PPOHS,Hyderabad,Telangana,Corporate
+C00280,Cust_750CE,Lucknow,Uttar Pradesh,Corporate
+C00281,Cust_U9RN8,Delhi,Delhi,SMB
+C00282,Cust_6MM1Z,Ahmedabad,Gujarat,Retail
+C00283,Cust_VGIUI,Chennai,Tamil Nadu,Retail
+C00284,Cust_1ZYRR,Chennai,Tamil Nadu,Retail
+C00285,Cust_72JEY,Jaipur,Rajasthan,Retail
+C00286,Cust_6OM1F,Pune,Maharashtra,Retail
+C00287,Cust_KZMPJ,Hyderabad,Telangana,SMB
+C00288,Cust_H3JUJ,Ahmedabad,Gujarat,Retail
+C00289,Cust_WVIYT,Bengaluru,Karnataka,SMB
+C00290,Cust_BOZD1,Delhi,Delhi,Corporate
+C00291,Cust_89FX5,Hyderabad,Telangana,SMB
+C00292,Cust_RH8LX,Ahmedabad,Gujarat,Corporate
+C00293,Cust_XI04B,Bengaluru,Karnataka,Retail
+C00294,Cust_P47B4,Mumbai,Maharashtra,Retail
+C00295,Cust_G05KB,Ahmedabad,Gujarat,Retail
+C00296,Cust_UD9K9,Chennai,Tamil Nadu,Retail
+C00297,Cust_S6ESJ,Jaipur,Rajasthan,Retail
+C00298,Cust_L0XZA,Bengaluru,Karnataka,Retail
+C00299,Cust_2U1G4,Kolkata,West Bengal,Retail
+C00300,Cust_3SDYG,Pune,Maharashtra,SMB
+C00301,Cust_R7ANQ,Mumbai,Maharashtra,SMB
+C00302,Cust_8K0AX,Chennai,Tamil Nadu,Retail
+C00303,Cust_CELOS,Delhi,Delhi,Retail
+C00304,Cust_YW7NH,Chennai,Tamil Nadu,Retail
+C00305,Cust_RQ9NZ,Mumbai,Maharashtra,Retail
+C00306,Cust_1231Y,Ahmedabad,Gujarat,Corporate
+C00307,Cust_5CQZC,Lucknow,Uttar Pradesh,Retail
+C00308,Cust_E36HT,Lucknow,Uttar Pradesh,Retail
+C00309,Cust_LSEHU,Mumbai,Maharashtra,Corporate
+C00310,Cust_6QCEO,Bengaluru,Karnataka,Corporate
+C00311,Cust_CQ30O,Lucknow,Uttar Pradesh,Retail
+C00312,Cust_0UBMC,Hyderabad,Telangana,Retail
+C00313,Cust_7C7BO,Hyderabad,Telangana,Retail
+C00314,Cust_19XP9,Mumbai,Maharashtra,Retail
+C00315,Cust_Q7NC8,Pune,Maharashtra,Retail
+C00316,Cust_E4E9O,Jaipur,Rajasthan,Retail
+C00317,Cust_0IAAK,Mumbai,Maharashtra,Retail
+C00318,Cust_PNIQF,Jaipur,Rajasthan,Retail
+C00319,Cust_70E3P,Delhi,Delhi,Retail
+C00320,Cust_ICVQY,Hyderabad,Telangana,Corporate
+C00321,Cust_IBPT1,Hyderabad,Telangana,Retail
+C00322,Cust_F9I6U,Hyderabad,Telangana,Retail
+C00323,Cust_VYLKF,Lucknow,Uttar Pradesh,Corporate
+C00324,Cust_HKC85,Jaipur,Rajasthan,Retail
+C00325,Cust_WPR97,Mumbai,Maharashtra,SMB
+C00326,Cust_2LOFN,Pune,Maharashtra,Retail
+C00327,Cust_R4KZ3,Jaipur,Rajasthan,Retail
+C00328,Cust_U8UEI,Hyderabad,Telangana,Retail
+C00329,Cust_LCQNT,Delhi,Delhi,Retail
+C00330,Cust_BNVBC,Delhi,Delhi,Retail
+C00331,Cust_0UR5L,Lucknow,Uttar Pradesh,Retail
+C00332,Cust_HG001,Hyderabad,Telangana,Retail
+C00333,Cust_ZZOIL,Delhi,Delhi,Retail
+C00334,Cust_NTMJS,Chennai,Tamil Nadu,Retail
+C00335,Cust_Q201L,Ahmedabad,Gujarat,Retail
+C00336,Cust_NOUHF,Delhi,Delhi,Retail
+C00337,Cust_TVZKH,Chennai,Tamil Nadu,Retail
+C00338,Cust_N4RXY,Delhi,Delhi,Retail
+C00339,Cust_1R00Q,Chennai,Tamil Nadu,Retail
+C00340,Cust_GZR7T,Kolkata,West Bengal,Retail
+C00341,Cust_S4C3B,Hyderabad,Telangana,Retail
+C00342,Cust_O4IZA,Hyderabad,Telangana,Corporate
+C00343,Cust_QCW76,Jaipur,Rajasthan,Retail
+C00344,Cust_ATOAZ,Ahmedabad,Gujarat,Retail
+C00345,Cust_9A3Y3,Jaipur,Rajasthan,Retail
+C00346,Cust_DDFGS,Mumbai,Maharashtra,Retail
+C00347,Cust_JONOU,Kolkata,West Bengal,Retail
+C00348,Cust_K3C9X,Delhi,Delhi,Retail
+C00349,Cust_DNTCA,Hyderabad,Telangana,Retail
+C00350,Cust_C4XL9,Mumbai,Maharashtra,Retail
+C00351,Cust_67I6Y,Bengaluru,Karnataka,Retail
+C00352,Cust_RBC76,Lucknow,Uttar Pradesh,Retail
+C00353,Cust_XG4AH,Lucknow,Uttar Pradesh,Retail
+C00354,Cust_1ZOCF,Mumbai,Maharashtra,Retail
+C00355,Cust_U4YTN,Delhi,Delhi,Retail
+C00356,Cust_2YC0M,Mumbai,Maharashtra,Retail
+C00357,Cust_P4M18,Bengaluru,Karnataka,Retail
+C00358,Cust_8LW2Q,Pune,Maharashtra,Retail
+C00359,Cust_M7PYX,Delhi,Delhi,Retail
+C00360,Cust_1KICJ,Bengaluru,Karnataka,Corporate
+C00361,Cust_ZW0LD,Pune,Maharashtra,Retail
+C00362,Cust_7Q1DD,Hyderabad,Telangana,Retail
+C00363,Cust_QTOAM,Pune,Maharashtra,Corporate
+C00364,Cust_V25AO,Bengaluru,Karnataka,Retail
+C00365,Cust_0U9IS,Bengaluru,Karnataka,Retail
+C00366,Cust_GJJFG,Pune,Maharashtra,Corporate
+C00367,Cust_PRCJI,Chennai,Tamil Nadu,Retail
+C00368,Cust_VHDK8,Ahmedabad,Gujarat,Retail
+C00369,Cust_4N5PP,Kolkata,West Bengal,Corporate
+C00370,Cust_EL8HL,Lucknow,Uttar Pradesh,SMB
+C00371,Cust_8KZRU,Pune,Maharashtra,Retail
+C00372,Cust_LK2N7,Delhi,Delhi,Retail
+C00373,Cust_VTYT8,Delhi,Delhi,Retail
+C00374,Cust_7H23C,Ahmedabad,Gujarat,Retail
+C00375,Cust_YFKJF,Pune,Maharashtra,Retail
+C00376,Cust_2C9RO,Pune,Maharashtra,Retail
+C00377,Cust_75PB8,Jaipur,Rajasthan,Retail
+C00378,Cust_V6DIX,Jaipur,Rajasthan,Retail
+C00379,Cust_XB9YO,Mumbai,Maharashtra,Retail
+C00380,Cust_8PAJS,Kolkata,West Bengal,Retail
+C00381,Cust_UYHNQ,Jaipur,Rajasthan,Corporate
+C00382,Cust_YF9RK,Lucknow,Uttar Pradesh,SMB
+C00383,Cust_E7FLQ,Bengaluru,Karnataka,Retail
+C00384,Cust_SMDZQ,Delhi,Delhi,SMB
+C00385,Cust_K3E4X,Bengaluru,Karnataka,Corporate
+C00386,Cust_70STL,Mumbai,Maharashtra,Retail
+C00387,Cust_8IOGX,Pune,Maharashtra,Retail
+C00388,Cust_O05QP,Pune,Maharashtra,Retail
+C00389,Cust_ZH13C,Hyderabad,Telangana,Retail
+C00390,Cust_2TNHE,Bengaluru,Karnataka,Retail
+C00391,Cust_SXVWV,Ahmedabad,Gujarat,Retail
+C00392,Cust_MQGY2,Kolkata,West Bengal,Retail
+C00393,Cust_VYLIE,Lucknow,Uttar Pradesh,Retail
+C00394,Cust_YSPEN,Kolkata,West Bengal,Retail
+C00395,Cust_RT77G,Mumbai,Maharashtra,Corporate
+C00396,Cust_RFLQB,Mumbai,Maharashtra,Retail
+C00397,Cust_8RHNU,Kolkata,West Bengal,SMB
+C00398,Cust_ORZPG,Ahmedabad,Gujarat,Retail
+C00399,Cust_B1KJT,Lucknow,Uttar Pradesh,SMB
+C00400,Cust_2U1RS,Mumbai,Maharashtra,Retail
+C00401,Cust_E13N3,Lucknow,Uttar Pradesh,Retail
+C00402,Cust_1PHP0,Hyderabad,Telangana,Retail
+C00403,Cust_K9QM3,Delhi,Delhi,Retail
+C00404,Cust_5E3H0,Ahmedabad,Gujarat,Corporate
+C00405,Cust_4VPW2,Kolkata,West Bengal,Retail
+C00406,Cust_2UTVG,Delhi,Delhi,SMB
+C00407,Cust_KJ49Y,Chennai,Tamil Nadu,Retail
+C00408,Cust_E1OCJ,Bengaluru,Karnataka,Retail
+C00409,Cust_ZEFLI,Mumbai,Maharashtra,Corporate
+C00410,Cust_RUJOQ,Pune,Maharashtra,Retail
+C00411,Cust_O0Z5Q,Bengaluru,Karnataka,Retail
+C00412,Cust_LA100,Ahmedabad,Gujarat,SMB
+C00413,Cust_WZ42O,Ahmedabad,Gujarat,SMB
+C00414,Cust_3RLKT,Pune,Maharashtra,SMB
+C00415,Cust_URMYB,Mumbai,Maharashtra,SMB
+C00416,Cust_W4A7F,Bengaluru,Karnataka,Retail
+C00417,Cust_A8HYE,Ahmedabad,Gujarat,Corporate
+C00418,Cust_F7JXJ,Chennai,Tamil Nadu,Retail
+C00419,Cust_XXBW0,Kolkata,West Bengal,SMB
+C00420,Cust_PDDHC,Delhi,Delhi,Retail
+C00421,Cust_IYAZ3,Lucknow,Uttar Pradesh,Retail
+C00422,Cust_YRID3,Pune,Maharashtra,Retail
+C00423,Cust_L5E11,Bengaluru,Karnataka,Retail
+C00424,Cust_XYCUV,Mumbai,Maharashtra,Retail
+C00425,Cust_P0WFO,Mumbai,Maharashtra,Corporate
+C00426,Cust_4DD1V,Ahmedabad,Gujarat,Corporate
+C00427,Cust_MP2IX,Pune,Maharashtra,Retail
+C00428,Cust_TVV2Y,Delhi,Delhi,Corporate
+C00429,Cust_HVGOX,Chennai,Tamil Nadu,Retail
+C00430,Cust_RERVT,Delhi,Delhi,Retail
+C00431,Cust_97E4U,Hyderabad,Telangana,Retail
+C00432,Cust_TGQ9C,Kolkata,West Bengal,Corporate
+C00433,Cust_CJBC2,Lucknow,Uttar Pradesh,Retail
+C00434,Cust_KZ1PO,Jaipur,Rajasthan,Retail
+C00435,Cust_TFDC7,Jaipur,Rajasthan,Retail
+C00436,Cust_TOW4Y,Mumbai,Maharashtra,Retail
+C00437,Cust_LP8II,Bengaluru,Karnataka,Retail
+C00438,Cust_EWBXX,Pune,Maharashtra,Retail
+C00439,Cust_EZZF8,Mumbai,Maharashtra,Retail
+C00440,Cust_S3JN0,Jaipur,Rajasthan,Retail
+C00441,Cust_0E6MP,Chennai,Tamil Nadu,SMB
+C00442,Cust_CZUCQ,Jaipur,Rajasthan,Retail
+C00443,Cust_B4GF1,Kolkata,West Bengal,Retail
+C00444,Cust_YE0A4,Lucknow,Uttar Pradesh,Retail
+C00445,Cust_IQNF7,Hyderabad,Telangana,Corporate
+C00446,Cust_T60PL,Hyderabad,Telangana,Retail
+C00447,Cust_6L3UE,Pune,Maharashtra,Corporate
+C00448,Cust_G298C,Hyderabad,Telangana,Retail
+C00449,Cust_51LDQ,Ahmedabad,Gujarat,Corporate
+C00450,Cust_HUKWQ,Kolkata,West Bengal,Retail
+C00451,Cust_8910T,Lucknow,Uttar Pradesh,Retail
+C00452,Cust_F7ATW,Delhi,Delhi,Retail
+C00453,Cust_8AX40,Hyderabad,Telangana,Retail
+C00454,Cust_H9P89,Bengaluru,Karnataka,SMB
+C00455,Cust_ZD76S,Mumbai,Maharashtra,Corporate
+C00456,Cust_Q0USW,Kolkata,West Bengal,Retail
+C00457,Cust_CUP8I,Pune,Maharashtra,Retail
+C00458,Cust_47O3L,Chennai,Tamil Nadu,Retail
+C00459,Cust_JCH2V,Ahmedabad,Gujarat,Retail
+C00460,Cust_DQLEM,Mumbai,Maharashtra,Retail
+C00461,Cust_QQ4D3,Delhi,Delhi,SMB
+C00462,Cust_3ZB4L,Chennai,Tamil Nadu,SMB
+C00463,Cust_Z8OBK,Bengaluru,Karnataka,Retail
+C00464,Cust_BOQ0I,Mumbai,Maharashtra,Corporate
+C00465,Cust_D2EC2,Ahmedabad,Gujarat,Retail
+C00466,Cust_E3NWX,Delhi,Delhi,Retail
+C00467,Cust_V7C9H,Lucknow,Uttar Pradesh,Retail
+C00468,Cust_3D43E,Ahmedabad,Gujarat,Retail
+C00469,Cust_B7P0R,Ahmedabad,Gujarat,Retail
+C00470,Cust_YGHGK,Pune,Maharashtra,Retail
+C00471,Cust_BWIKO,Mumbai,Maharashtra,Retail
+C00472,Cust_RDNPX,Jaipur,Rajasthan,Retail
+C00473,Cust_I9TAN,Jaipur,Rajasthan,SMB
+C00474,Cust_R2MUL,Kolkata,West Bengal,Retail
+C00475,Cust_GLH62,Chennai,Tamil Nadu,Corporate
+C00476,Cust_3QMVI,Hyderabad,Telangana,Corporate
+C00477,Cust_DXJ37,Mumbai,Maharashtra,Retail
+C00478,Cust_18U9N,Hyderabad,Telangana,Retail
+C00479,Cust_GV3Z6,Mumbai,Maharashtra,Corporate
+C00480,Cust_ZMUF8,Hyderabad,Telangana,Retail
+C00481,Cust_TGBCV,Ahmedabad,Gujarat,SMB
+C00482,Cust_SA7HE,Hyderabad,Telangana,Retail
+C00483,Cust_74LAV,Mumbai,Maharashtra,Retail
+C00484,Cust_1448N,Mumbai,Maharashtra,Corporate
+C00485,Cust_VML90,Pune,Maharashtra,Corporate
+C00486,Cust_28XG8,Pune,Maharashtra,SMB
+C00487,Cust_2IVGL,Lucknow,Uttar Pradesh,Retail
+C00488,Cust_E088O,Chennai,Tamil Nadu,SMB
+C00489,Cust_BV78H,Lucknow,Uttar Pradesh,Corporate
+C00490,Cust_DRLCM,Lucknow,Uttar Pradesh,Corporate
+C00491,Cust_G5DZX,Kolkata,West Bengal,Retail
+C00492,Cust_QJICJ,Kolkata,West Bengal,Retail
+C00493,Cust_ZBPPF,Bengaluru,Karnataka,SMB
+C00494,Cust_RNTDR,Pune,Maharashtra,Retail
+C00495,Cust_XYFC4,Lucknow,Uttar Pradesh,Retail
+C00496,Cust_AJDM5,Chennai,Tamil Nadu,Retail
+C00497,Cust_0T6DV,Mumbai,Maharashtra,Retail
+C00498,Cust_6ZPXV,Lucknow,Uttar Pradesh,Retail
+C00499,Cust_FDHGZ,Pune,Maharashtra,Retail
+C00500,Cust_JKIBU,Jaipur,Rajasthan,Corporate
+C00501,Cust_FMPKX,Ahmedabad,Gujarat,Retail
+C00502,Cust_RDHW9,Lucknow,Uttar Pradesh,Retail
+C00503,Cust_4LORX,Ahmedabad,Gujarat,Retail
+C00504,Cust_XNNNG,Bengaluru,Karnataka,Retail
+C00505,Cust_JQIJC,Hyderabad,Telangana,Retail
+C00506,Cust_DMT8V,Bengaluru,Karnataka,Retail
+C00507,Cust_CNS8Y,Jaipur,Rajasthan,Retail
+C00508,Cust_UIKO4,Ahmedabad,Gujarat,SMB
+C00509,Cust_S62YW,Hyderabad,Telangana,Retail
+C00510,Cust_8Q8GH,Bengaluru,Karnataka,Retail
+C00511,Cust_EP9P9,Delhi,Delhi,Retail
+C00512,Cust_4J66C,Mumbai,Maharashtra,Retail
+C00513,Cust_UT4S7,Pune,Maharashtra,Corporate
+C00514,Cust_2WSPO,Hyderabad,Telangana,Corporate
+C00515,Cust_UU8DD,Mumbai,Maharashtra,Retail
+C00516,Cust_2555J,Bengaluru,Karnataka,Retail
+C00517,Cust_URGOW,Ahmedabad,Gujarat,Retail
+C00518,Cust_B6LI0,Pune,Maharashtra,Retail
+C00519,Cust_6A3KK,Chennai,Tamil Nadu,SMB
+C00520,Cust_4Y9IK,Ahmedabad,Gujarat,Retail
+C00521,Cust_1L0VD,Ahmedabad,Gujarat,Retail
+C00522,Cust_H3015,Ahmedabad,Gujarat,Retail
+C00523,Cust_SFLSE,Hyderabad,Telangana,Retail
+C00524,Cust_5BG34,Jaipur,Rajasthan,Retail
+C00525,Cust_BBMHN,Delhi,Delhi,Retail
+C00526,Cust_SWEBN,Ahmedabad,Gujarat,Corporate
+C00527,Cust_Q8RTM,Lucknow,Uttar Pradesh,Retail
+C00528,Cust_0YKNF,Chennai,Tamil Nadu,Retail
+C00529,Cust_2HHIH,Lucknow,Uttar Pradesh,Retail
+C00530,Cust_S58YR,Pune,Maharashtra,SMB
+C00531,Cust_XVAJ2,Mumbai,Maharashtra,Retail
+C00532,Cust_ZZJ64,Chennai,Tamil Nadu,Corporate
+C00533,Cust_JQY3O,Ahmedabad,Gujarat,Corporate
+C00534,Cust_A984U,Bengaluru,Karnataka,SMB
+C00535,Cust_VKDC9,Lucknow,Uttar Pradesh,Retail
+C00536,Cust_5JZ6K,Kolkata,West Bengal,Retail
+C00537,Cust_SIC43,Mumbai,Maharashtra,Retail
+C00538,Cust_XYZX9,Pune,Maharashtra,Retail
+C00539,Cust_6O0U9,Chennai,Tamil Nadu,Retail
+C00540,Cust_MZYWR,Delhi,Delhi,Retail
+C00541,Cust_S445G,Kolkata,West Bengal,SMB
+C00542,Cust_Q00U6,Bengaluru,Karnataka,Retail
+C00543,Cust_XII5P,Kolkata,West Bengal,Retail
+C00544,Cust_NVQEB,Kolkata,West Bengal,Retail
+C00545,Cust_UWQHE,Lucknow,Uttar Pradesh,Retail
+C00546,Cust_TO5F9,Pune,Maharashtra,Retail
+C00547,Cust_OU6QL,Kolkata,West Bengal,Retail
+C00548,Cust_2RWGW,Mumbai,Maharashtra,Retail
+C00549,Cust_QH1UF,Hyderabad,Telangana,Retail
+C00550,Cust_EPPPR,Bengaluru,Karnataka,SMB
+C00551,Cust_BHNAL,Hyderabad,Telangana,Corporate
+C00552,Cust_GYWIY,Jaipur,Rajasthan,SMB
+C00553,Cust_LDSLC,Kolkata,West Bengal,Retail
+C00554,Cust_KK0VM,Hyderabad,Telangana,Retail
+C00555,Cust_M6MG8,Mumbai,Maharashtra,Retail
+C00556,Cust_AI9HA,Pune,Maharashtra,Retail
+C00557,Cust_GNXB5,Jaipur,Rajasthan,Retail
+C00558,Cust_1WVBD,Chennai,Tamil Nadu,Retail
+C00559,Cust_BEPEJ,Hyderabad,Telangana,Retail
+C00560,Cust_HYAPD,Mumbai,Maharashtra,Retail
+C00561,Cust_JVE3D,Jaipur,Rajasthan,Corporate
+C00562,Cust_EEDHH,Lucknow,Uttar Pradesh,Retail
+C00563,Cust_39MOF,Chennai,Tamil Nadu,Retail
+C00564,Cust_RH7LA,Jaipur,Rajasthan,Retail
+C00565,Cust_64YFD,Bengaluru,Karnataka,Retail
+C00566,Cust_C06XQ,Jaipur,Rajasthan,Retail
+C00567,Cust_JB354,Chennai,Tamil Nadu,Retail
+C00568,Cust_2L0D1,Kolkata,West Bengal,Retail
+C00569,Cust_AEXL6,Hyderabad,Telangana,Corporate
+C00570,Cust_J0NME,Lucknow,Uttar Pradesh,Corporate
+C00571,Cust_8JN42,Pune,Maharashtra,Retail
+C00572,Cust_EZC7F,Mumbai,Maharashtra,Retail
+C00573,Cust_6RUPW,Pune,Maharashtra,Retail
+C00574,Cust_W5506,Kolkata,West Bengal,Corporate
+C00575,Cust_7EOBJ,Ahmedabad,Gujarat,Retail
+C00576,Cust_A5S00,Kolkata,West Bengal,Retail
+C00577,Cust_9YMSZ,Delhi,Delhi,Retail
+C00578,Cust_P0RXX,Bengaluru,Karnataka,Retail
+C00579,Cust_4U9BX,Mumbai,Maharashtra,Corporate
+C00580,Cust_SQRF1,Mumbai,Maharashtra,Retail
+C00581,Cust_I8BIX,Kolkata,West Bengal,Retail
+C00582,Cust_3CPUD,Pune,Maharashtra,Retail
+C00583,Cust_QERXD,Ahmedabad,Gujarat,Retail
+C00584,Cust_BT328,Pune,Maharashtra,Corporate
+C00585,Cust_6UXQM,Chennai,Tamil Nadu,Corporate
+C00586,Cust_34L1V,Hyderabad,Telangana,Retail
+C00587,Cust_ZE1HM,Kolkata,West Bengal,Retail
+C00588,Cust_TND6R,Chennai,Tamil Nadu,Retail
+C00589,Cust_DVG7O,Pune,Maharashtra,Retail
+C00590,Cust_3GM1B,Ahmedabad,Gujarat,Retail
+C00591,Cust_E6QVS,Lucknow,Uttar Pradesh,Retail
+C00592,Cust_A0TPV,Ahmedabad,Gujarat,Retail
+C00593,Cust_26YG3,Jaipur,Rajasthan,Retail
+C00594,Cust_NV5SN,Bengaluru,Karnataka,Retail
+C00595,Cust_61J88,Lucknow,Uttar Pradesh,Corporate
+C00596,Cust_2EV5S,Ahmedabad,Gujarat,Retail
+C00597,Cust_4Z7WH,Jaipur,Rajasthan,Retail
+C00598,Cust_ZY7EZ,Lucknow,Uttar Pradesh,Retail
+C00599,Cust_SYLEM,Mumbai,Maharashtra,Retail
+C00600,Cust_U7ZY6,Ahmedabad,Gujarat,Retail
+C00601,Cust_K43SA,Jaipur,Rajasthan,Retail
+C00602,Cust_BCJ29,Mumbai,Maharashtra,Corporate
+C00603,Cust_FC2HT,Chennai,Tamil Nadu,Retail
+C00604,Cust_3D505,Kolkata,West Bengal,Retail
+C00605,Cust_NS2ZY,Jaipur,Rajasthan,Retail
+C00606,Cust_7N89L,Hyderabad,Telangana,Retail
+C00607,Cust_B0H54,Jaipur,Rajasthan,Retail
+C00608,Cust_36ZX1,Ahmedabad,Gujarat,Retail
+C00609,Cust_0H0GQ,Jaipur,Rajasthan,Retail
+C00610,Cust_GGSNP,Bengaluru,Karnataka,Retail
+C00611,Cust_JF4AQ,Jaipur,Rajasthan,Retail
+C00612,Cust_B7V1W,Mumbai,Maharashtra,Retail
+C00613,Cust_RUM2L,Chennai,Tamil Nadu,Retail
+C00614,Cust_8S2FT,Delhi,Delhi,Retail
+C00615,Cust_DHHLM,Pune,Maharashtra,Retail
+C00616,Cust_8WRU1,Delhi,Delhi,Corporate
+C00617,Cust_EMIX7,Hyderabad,Telangana,Retail
+C00618,Cust_8YL68,Delhi,Delhi,SMB
+C00619,Cust_J0AS1,Pune,Maharashtra,Retail
+C00620,Cust_2QB6G,Jaipur,Rajasthan,SMB
+C00621,Cust_CD81T,Jaipur,Rajasthan,Retail
+C00622,Cust_HWHY4,Bengaluru,Karnataka,Retail
+C00623,Cust_TZ91X,Delhi,Delhi,Retail
+C00624,Cust_0FQLD,Bengaluru,Karnataka,Retail
+C00625,Cust_GJC36,Hyderabad,Telangana,Retail
+C00626,Cust_NWPAY,Pune,Maharashtra,Retail
+C00627,Cust_AZC0B,Jaipur,Rajasthan,Retail
+C00628,Cust_MSKYV,Bengaluru,Karnataka,Corporate
+C00629,Cust_1POXR,Chennai,Tamil Nadu,Retail
+C00630,Cust_H024K,Jaipur,Rajasthan,Corporate
+C00631,Cust_K585X,Mumbai,Maharashtra,Retail
+C00632,Cust_TTEAV,Hyderabad,Telangana,Retail
+C00633,Cust_TDH00,Jaipur,Rajasthan,Retail
+C00634,Cust_OXSFH,Delhi,Delhi,Retail
+C00635,Cust_GG244,Chennai,Tamil Nadu,Retail
+C00636,Cust_QTKCD,Jaipur,Rajasthan,Corporate
+C00637,Cust_RLEXD,Lucknow,Uttar Pradesh,Retail
+C00638,Cust_CGRLX,Lucknow,Uttar Pradesh,Retail
+C00639,Cust_FU38G,Lucknow,Uttar Pradesh,Corporate
+C00640,Cust_IH0P4,Kolkata,West Bengal,Retail
+C00641,Cust_YLRQ1,Mumbai,Maharashtra,SMB
+C00642,Cust_TGV44,Ahmedabad,Gujarat,SMB
+C00643,Cust_6H0W0,Mumbai,Maharashtra,Retail
+C00644,Cust_4W3U1,Hyderabad,Telangana,Retail
+C00645,Cust_6TT9Q,Delhi,Delhi,Retail
+C00646,Cust_NI10K,Mumbai,Maharashtra,Corporate
+C00647,Cust_SDNAI,Ahmedabad,Gujarat,Retail
+C00648,Cust_Y1FFU,Lucknow,Uttar Pradesh,Retail
+C00649,Cust_X80RM,Lucknow,Uttar Pradesh,Corporate
+C00650,Cust_1IJIY,Delhi,Delhi,Retail
+C00651,Cust_6NQQB,Jaipur,Rajasthan,Corporate
+C00652,Cust_D8WJ0,Kolkata,West Bengal,Retail
+C00653,Cust_TGXNX,Lucknow,Uttar Pradesh,Retail
+C00654,Cust_SN6SM,Bengaluru,Karnataka,Corporate
+C00655,Cust_RRVSF,Kolkata,West Bengal,Retail
+C00656,Cust_ISKFF,Mumbai,Maharashtra,Retail
+C00657,Cust_ZEI3Z,Lucknow,Uttar Pradesh,Retail
+C00658,Cust_YRVXO,Ahmedabad,Gujarat,Retail
+C00659,Cust_BUFWB,Delhi,Delhi,Retail
+C00660,Cust_FF7SO,Lucknow,Uttar Pradesh,SMB
+C00661,Cust_W5038,Lucknow,Uttar Pradesh,Retail
+C00662,Cust_Q95G3,Delhi,Delhi,Retail
+C00663,Cust_FU1WS,Lucknow,Uttar Pradesh,Retail
+C00664,Cust_0MQVI,Mumbai,Maharashtra,Retail
+C00665,Cust_EAS6Y,Pune,Maharashtra,SMB
+C00666,Cust_VG6V5,Mumbai,Maharashtra,Corporate
+C00667,Cust_SEREV,Jaipur,Rajasthan,Retail
+C00668,Cust_61XSN,Hyderabad,Telangana,Retail
+C00669,Cust_ZP7R1,Hyderabad,Telangana,Retail
+C00670,Cust_V01ZD,Kolkata,West Bengal,Retail
+C00671,Cust_J16DV,Mumbai,Maharashtra,Retail
+C00672,Cust_OGZ2U,Jaipur,Rajasthan,Retail
+C00673,Cust_SNH2O,Bengaluru,Karnataka,SMB
+C00674,Cust_FXJ4P,Bengaluru,Karnataka,Retail
+C00675,Cust_W9OHT,Kolkata,West Bengal,Corporate
+C00676,Cust_RNTJL,Jaipur,Rajasthan,Retail
+C00677,Cust_1OE5E,Kolkata,West Bengal,Retail
+C00678,Cust_QZFHO,Delhi,Delhi,Corporate
+C00679,Cust_2WYBO,Kolkata,West Bengal,Retail
+C00680,Cust_23QVD,Hyderabad,Telangana,Corporate
+C00681,Cust_HCBN9,Chennai,Tamil Nadu,Retail
+C00682,Cust_XK8C1,Lucknow,Uttar Pradesh,Retail
+C00683,Cust_XPHX2,Mumbai,Maharashtra,Corporate
+C00684,Cust_H2SZW,Chennai,Tamil Nadu,Retail
+C00685,Cust_MX9DJ,Hyderabad,Telangana,Corporate
+C00686,Cust_MOVS0,Pune,Maharashtra,SMB
+C00687,Cust_7T0UU,Bengaluru,Karnataka,Retail
+C00688,Cust_8JVH7,Kolkata,West Bengal,Retail
+C00689,Cust_AGSUS,Lucknow,Uttar Pradesh,Retail
+C00690,Cust_82853,Kolkata,West Bengal,Retail
+C00691,Cust_JPNRI,Lucknow,Uttar Pradesh,Corporate
+C00692,Cust_8QQVA,Kolkata,West Bengal,Retail
+C00693,Cust_JN2HZ,Bengaluru,Karnataka,Retail
+C00694,Cust_OMTZJ,Kolkata,West Bengal,Retail
+C00695,Cust_DY3C7,Chennai,Tamil Nadu,Retail
+C00696,Cust_LHUG0,Ahmedabad,Gujarat,Corporate
+C00697,Cust_RH05H,Delhi,Delhi,Retail
+C00698,Cust_44M2E,Delhi,Delhi,SMB
+C00699,Cust_YXW1T,Bengaluru,Karnataka,Retail
+C00700,Cust_4NL65,Hyderabad,Telangana,Retail
+C00701,Cust_5R96K,Lucknow,Uttar Pradesh,Retail
+C00702,Cust_1ESP7,Delhi,Delhi,Retail
+C00703,Cust_SOYG9,Hyderabad,Telangana,SMB
+C00704,Cust_QYAHU,Jaipur,Rajasthan,Retail
+C00705,Cust_N5GJJ,Kolkata,West Bengal,Corporate
+C00706,Cust_MGPP1,Lucknow,Uttar Pradesh,Retail
+C00707,Cust_4KGEU,Kolkata,West Bengal,Retail
+C00708,Cust_3Z2T4,Delhi,Delhi,Retail
+C00709,Cust_F8F3G,Delhi,Delhi,Retail
+C00710,Cust_E6WTL,Ahmedabad,Gujarat,Retail
+C00711,Cust_KUUOY,Ahmedabad,Gujarat,Retail
+C00712,Cust_HJ4D0,Hyderabad,Telangana,SMB
+C00713,Cust_MU7JA,Chennai,Tamil Nadu,Retail
+C00714,Cust_MYVUX,Bengaluru,Karnataka,Retail
+C00715,Cust_G2MYR,Jaipur,Rajasthan,Retail
+C00716,Cust_6NKWF,Ahmedabad,Gujarat,Retail
+C00717,Cust_X7PWO,Mumbai,Maharashtra,SMB
+C00718,Cust_CMLXZ,Bengaluru,Karnataka,Retail
+C00719,Cust_XJQ5N,Lucknow,Uttar Pradesh,Retail
+C00720,Cust_SQG4E,Lucknow,Uttar Pradesh,Retail
+C00721,Cust_X7ZCG,Delhi,Delhi,Retail
+C00722,Cust_D7RB1,Bengaluru,Karnataka,Retail
+C00723,Cust_1CJFX,Jaipur,Rajasthan,Retail
+C00724,Cust_LIKWE,Pune,Maharashtra,Retail
+C00725,Cust_BX4LR,Mumbai,Maharashtra,Retail
+C00726,Cust_7TE8T,Jaipur,Rajasthan,Corporate
+C00727,Cust_VWWUS,Lucknow,Uttar Pradesh,Retail
+C00728,Cust_LMT2P,Jaipur,Rajasthan,Corporate
+C00729,Cust_OFAS1,Kolkata,West Bengal,Retail
+C00730,Cust_MQA78,Mumbai,Maharashtra,Corporate
+C00731,Cust_K12V2,Ahmedabad,Gujarat,Retail
+C00732,Cust_NOUOF,Jaipur,Rajasthan,Retail
+C00733,Cust_3HCWS,Pune,Maharashtra,Retail
+C00734,Cust_3YK03,Lucknow,Uttar Pradesh,Retail
+C00735,Cust_GCEDQ,Pune,Maharashtra,Retail
+C00736,Cust_JWGAB,Ahmedabad,Gujarat,Retail
+C00737,Cust_A9KEP,Jaipur,Rajasthan,Retail
+C00738,Cust_IFRML,Hyderabad,Telangana,Retail
+C00739,Cust_9Q2L4,Ahmedabad,Gujarat,Retail
+C00740,Cust_C1CQG,Mumbai,Maharashtra,Corporate
+C00741,Cust_33E1I,Chennai,Tamil Nadu,Retail
+C00742,Cust_I9H0D,Ahmedabad,Gujarat,Retail
+C00743,Cust_RYLLW,Delhi,Delhi,Retail
+C00744,Cust_0TERK,Hyderabad,Telangana,Retail
+C00745,Cust_55HEW,Kolkata,West Bengal,Retail
+C00746,Cust_A2VOI,Kolkata,West Bengal,Corporate
+C00747,Cust_UYYF1,Hyderabad,Telangana,Retail
+C00748,Cust_FDW79,Delhi,Delhi,Retail
+C00749,Cust_CXZ2E,Hyderabad,Telangana,Retail
+C00750,Cust_LUXM6,Delhi,Delhi,Retail
+C00751,Cust_AN0JB,Delhi,Delhi,Corporate
+C00752,Cust_UTRUT,Ahmedabad,Gujarat,Corporate
+C00753,Cust_0J36T,Kolkata,West Bengal,Retail
+C00754,Cust_TQ3TQ,Bengaluru,Karnataka,Retail
+C00755,Cust_NGA41,Jaipur,Rajasthan,Retail
+C00756,Cust_LC83G,Delhi,Delhi,Retail
+C00757,Cust_1FKOL,Ahmedabad,Gujarat,Retail
+C00758,Cust_SC4E5,Bengaluru,Karnataka,Retail
+C00759,Cust_DGBXN,Delhi,Delhi,Retail
+C00760,Cust_SZJNV,Ahmedabad,Gujarat,Retail
+C00761,Cust_A7X73,Bengaluru,Karnataka,Retail
+C00762,Cust_2CU7O,Ahmedabad,Gujarat,Corporate
+C00763,Cust_2CWT0,Kolkata,West Bengal,Retail
+C00764,Cust_CHSDI,Chennai,Tamil Nadu,Corporate
+C00765,Cust_GSIWG,Pune,Maharashtra,Retail
+C00766,Cust_ODWMQ,Jaipur,Rajasthan,Retail
+C00767,Cust_5GGOM,Pune,Maharashtra,Corporate
+C00768,Cust_TV76T,Mumbai,Maharashtra,Corporate
+C00769,Cust_4OW3L,Kolkata,West Bengal,Retail
+C00770,Cust_UH17J,Delhi,Delhi,Retail
+C00771,Cust_QO09V,Ahmedabad,Gujarat,Corporate
+C00772,Cust_E6A9H,Jaipur,Rajasthan,Retail
+C00773,Cust_A3YJT,Kolkata,West Bengal,Retail
+C00774,Cust_UUDQF,Jaipur,Rajasthan,SMB
+C00775,Cust_NUI3D,Chennai,Tamil Nadu,Retail
+C00776,Cust_UHCLR,Pune,Maharashtra,Retail
+C00777,Cust_3YU6V,Ahmedabad,Gujarat,Retail
+C00778,Cust_B3N27,Chennai,Tamil Nadu,Retail
+C00779,Cust_M3O55,Kolkata,West Bengal,Retail
+C00780,Cust_047WW,Delhi,Delhi,Retail
+C00781,Cust_KBTFS,Hyderabad,Telangana,Retail
+C00782,Cust_FY981,Delhi,Delhi,Retail
+C00783,Cust_SHKOE,Lucknow,Uttar Pradesh,Retail
+C00784,Cust_R0TJO,Bengaluru,Karnataka,Retail
+C00785,Cust_1EEUR,Pune,Maharashtra,SMB
+C00786,Cust_HW0IC,Lucknow,Uttar Pradesh,Retail
+C00787,Cust_L7DYP,Pune,Maharashtra,SMB
+C00788,Cust_GMX1G,Kolkata,West Bengal,Retail
+C00789,Cust_W9PFB,Kolkata,West Bengal,Corporate
+C00790,Cust_HN14E,Delhi,Delhi,Retail
+C00791,Cust_IWF3K,Hyderabad,Telangana,Retail
+C00792,Cust_YEQAH,Kolkata,West Bengal,Corporate
+C00793,Cust_HT1TW,Jaipur,Rajasthan,Corporate
+C00794,Cust_ZYN6S,Mumbai,Maharashtra,Retail
+C00795,Cust_GK2WB,Chennai,Tamil Nadu,Retail
+C00796,Cust_CXX6M,Hyderabad,Telangana,Retail
+C00797,Cust_A5XIN,Bengaluru,Karnataka,Corporate
+C00798,Cust_6RVDH,Bengaluru,Karnataka,Retail
+C00799,Cust_UZB7K,Ahmedabad,Gujarat,Retail
+C00800,Cust_OFMMW,Ahmedabad,Gujarat,Retail
+C00801,Cust_99JCJ,Delhi,Delhi,Retail
+C00802,Cust_63BTK,Pune,Maharashtra,Corporate
+C00803,Cust_MOE0S,Mumbai,Maharashtra,Retail
+C00804,Cust_5YPUP,Lucknow,Uttar Pradesh,Retail
+C00805,Cust_6LTHE,Chennai,Tamil Nadu,Retail
+C00806,Cust_YHEY6,Jaipur,Rajasthan,Retail
+C00807,Cust_P61XU,Mumbai,Maharashtra,Retail
+C00808,Cust_LU8EL,Mumbai,Maharashtra,Retail
+C00809,Cust_015OO,Mumbai,Maharashtra,SMB
+C00810,Cust_03W0F,Ahmedabad,Gujarat,Retail
+C00811,Cust_DG1WJ,Delhi,Delhi,Retail
+C00812,Cust_WVIAC,Lucknow,Uttar Pradesh,Retail
+C00813,Cust_E4QXG,Ahmedabad,Gujarat,Retail
+C00814,Cust_REGB1,Pune,Maharashtra,SMB
+C00815,Cust_78IYH,Hyderabad,Telangana,Retail
+C00816,Cust_C795R,Delhi,Delhi,Retail
+C00817,Cust_55P1V,Kolkata,West Bengal,Retail
+C00818,Cust_ZO7UT,Pune,Maharashtra,Retail
+C00819,Cust_SQ3B9,Hyderabad,Telangana,Retail
+C00820,Cust_T9BN1,Jaipur,Rajasthan,Corporate
+C00821,Cust_GP51K,Hyderabad,Telangana,Retail
+C00822,Cust_PWBSF,Mumbai,Maharashtra,Retail
+C00823,Cust_DSGV6,Ahmedabad,Gujarat,Retail
+C00824,Cust_EOQGV,Jaipur,Rajasthan,Retail
+C00825,Cust_5DLXZ,Delhi,Delhi,Retail
+C00826,Cust_ZEEQN,Mumbai,Maharashtra,Corporate
+C00827,Cust_Z09WF,Jaipur,Rajasthan,Retail
+C00828,Cust_N16UX,Jaipur,Rajasthan,Retail
+C00829,Cust_FF1BL,Mumbai,Maharashtra,Retail
+C00830,Cust_KG68A,Ahmedabad,Gujarat,Corporate
+C00831,Cust_ARR3V,Chennai,Tamil Nadu,Retail
+C00832,Cust_IVROC,Ahmedabad,Gujarat,Corporate
+C00833,Cust_A5KW3,Lucknow,Uttar Pradesh,Retail
+C00834,Cust_BFXB4,Delhi,Delhi,SMB
+C00835,Cust_4K7BP,Lucknow,Uttar Pradesh,Retail
+C00836,Cust_FKXZU,Mumbai,Maharashtra,Retail
+C00837,Cust_GQU7D,Jaipur,Rajasthan,Retail
+C00838,Cust_L6314,Chennai,Tamil Nadu,Retail
+C00839,Cust_KEZJS,Bengaluru,Karnataka,Retail
+C00840,Cust_HHCU9,Jaipur,Rajasthan,Retail
+C00841,Cust_9RY79,Jaipur,Rajasthan,Retail
+C00842,Cust_P4JUW,Chennai,Tamil Nadu,Retail
+C00843,Cust_WR0R3,Mumbai,Maharashtra,SMB
+C00844,Cust_IKGEQ,Lucknow,Uttar Pradesh,Retail
+C00845,Cust_0HWOB,Bengaluru,Karnataka,Corporate
+C00846,Cust_UWAHK,Kolkata,West Bengal,Retail
+C00847,Cust_LSLAY,Bengaluru,Karnataka,Retail
+C00848,Cust_OU83G,Kolkata,West Bengal,Retail
+C00849,Cust_7RRBE,Kolkata,West Bengal,Retail
+C00850,Cust_W6TM2,Mumbai,Maharashtra,SMB
+C00851,Cust_7CSUY,Pune,Maharashtra,Retail
+C00852,Cust_THY25,Jaipur,Rajasthan,Corporate
+C00853,Cust_CF4MN,Kolkata,West Bengal,SMB
+C00854,Cust_4UOV5,Jaipur,Rajasthan,Retail
+C00855,Cust_ZLBOR,Chennai,Tamil Nadu,SMB
+C00856,Cust_N3KSG,Delhi,Delhi,Retail
+C00857,Cust_226PA,Kolkata,West Bengal,SMB
+C00858,Cust_6FMR5,Ahmedabad,Gujarat,Retail
+C00859,Cust_1F537,Chennai,Tamil Nadu,Retail
+C00860,Cust_HBN5E,Mumbai,Maharashtra,SMB
+C00861,Cust_7YVDQ,Chennai,Tamil Nadu,Retail
+C00862,Cust_D10A1,Hyderabad,Telangana,Retail
+C00863,Cust_LGJLP,Delhi,Delhi,Retail
+C00864,Cust_JFE8U,Bengaluru,Karnataka,Retail
+C00865,Cust_HMLFZ,Bengaluru,Karnataka,Retail
+C00866,Cust_UGL6T,Chennai,Tamil Nadu,Corporate
+C00867,Cust_EQYDB,Hyderabad,Telangana,Retail
+C00868,Cust_OZ6WY,Pune,Maharashtra,Retail
+C00869,Cust_WL3ZY,Ahmedabad,Gujarat,Retail
+C00870,Cust_C71UD,Jaipur,Rajasthan,Retail
+C00871,Cust_DLX1Q,Ahmedabad,Gujarat,Retail
+C00872,Cust_F6JNG,Delhi,Delhi,Corporate
+C00873,Cust_25QBR,Kolkata,West Bengal,SMB
+C00874,Cust_R4KMU,Kolkata,West Bengal,Retail
+C00875,Cust_D32LX,Jaipur,Rajasthan,Retail
+C00876,Cust_TOOWT,Chennai,Tamil Nadu,SMB
+C00877,Cust_NM3V2,Ahmedabad,Gujarat,Corporate
+C00878,Cust_UMYGY,Pune,Maharashtra,Retail
+C00879,Cust_4EVLD,Lucknow,Uttar Pradesh,Retail
+C00880,Cust_G8CD3,Ahmedabad,Gujarat,SMB
+C00881,Cust_LXCHF,Pune,Maharashtra,Retail
+C00882,Cust_6WAFF,Lucknow,Uttar Pradesh,Retail
+C00883,Cust_KWQH5,Jaipur,Rajasthan,Retail
+C00884,Cust_U6K7P,Chennai,Tamil Nadu,Retail
+C00885,Cust_9UWS4,Kolkata,West Bengal,Retail
+C00886,Cust_C68AU,Chennai,Tamil Nadu,Retail
+C00887,Cust_DKBPV,Kolkata,West Bengal,Retail
+C00888,Cust_ZOPHG,Kolkata,West Bengal,Retail
+C00889,Cust_GN74F,Mumbai,Maharashtra,Retail
+C00890,Cust_ECAZR,Mumbai,Maharashtra,Retail
+C00891,Cust_9EE34,Pune,Maharashtra,Corporate
+C00892,Cust_7WQP3,Lucknow,Uttar Pradesh,SMB
+C00893,Cust_MGVU4,Pune,Maharashtra,Retail
+C00894,Cust_ZJ7UB,Delhi,Delhi,Retail
+C00895,Cust_UZERY,Hyderabad,Telangana,SMB
+C00896,Cust_0S41K,Mumbai,Maharashtra,Retail
+C00897,Cust_C6DR0,Jaipur,Rajasthan,Retail
+C00898,Cust_YTUW6,Bengaluru,Karnataka,Corporate
+C00899,Cust_2QSQ0,Jaipur,Rajasthan,Retail
+C00900,Cust_M9KGZ,Pune,Maharashtra,Corporate
+C00901,Cust_00UCR,Lucknow,Uttar Pradesh,Corporate
+C00902,Cust_UXK0A,Mumbai,Maharashtra,Retail
+C00903,Cust_CS4KE,Ahmedabad,Gujarat,Retail
+C00904,Cust_JJ0V6,Chennai,Tamil Nadu,Retail
+C00905,Cust_XNG2I,Mumbai,Maharashtra,Retail
+C00906,Cust_25MDF,Mumbai,Maharashtra,Retail
+C00907,Cust_41ONX,Mumbai,Maharashtra,Retail
+C00908,Cust_H0MX1,Mumbai,Maharashtra,Retail
+C00909,Cust_BQRR8,Bengaluru,Karnataka,SMB
+C00910,Cust_IYOJT,Jaipur,Rajasthan,Retail
+C00911,Cust_A7QY8,Pune,Maharashtra,Retail
+C00912,Cust_DTM4V,Hyderabad,Telangana,Retail
+C00913,Cust_MJDXO,Chennai,Tamil Nadu,Retail
+C00914,Cust_0VHMY,Delhi,Delhi,Retail
+C00915,Cust_LAACO,Mumbai,Maharashtra,Retail
+C00916,Cust_DQHKG,Jaipur,Rajasthan,Retail
+C00917,Cust_WCV6H,Hyderabad,Telangana,Corporate
+C00918,Cust_WZE4E,Lucknow,Uttar Pradesh,SMB
+C00919,Cust_2GDGK,Lucknow,Uttar Pradesh,Retail
+C00920,Cust_W7JP6,Bengaluru,Karnataka,Retail
+C00921,Cust_J2JCN,Kolkata,West Bengal,Retail
+C00922,Cust_J3GC9,Hyderabad,Telangana,Retail
+C00923,Cust_VGRF1,Delhi,Delhi,Retail
+C00924,Cust_WDPJB,Delhi,Delhi,SMB
+C00925,Cust_UJQ6F,Bengaluru,Karnataka,Retail
+C00926,Cust_7XJZ6,Hyderabad,Telangana,Retail
+C00927,Cust_AZ1RO,Lucknow,Uttar Pradesh,Retail
+C00928,Cust_TA83R,Bengaluru,Karnataka,SMB
+C00929,Cust_T9MKB,Lucknow,Uttar Pradesh,Corporate
+C00930,Cust_N4M41,Bengaluru,Karnataka,Retail
+C00931,Cust_XGBNG,Chennai,Tamil Nadu,Retail
+C00932,Cust_6WMDW,Pune,Maharashtra,Retail
+C00933,Cust_FGZVR,Delhi,Delhi,Retail
+C00934,Cust_2XR83,Bengaluru,Karnataka,Retail
+C00935,Cust_BC2BE,Hyderabad,Telangana,Corporate
+C00936,Cust_QY5FU,Jaipur,Rajasthan,Retail
+C00937,Cust_BFXQ7,Bengaluru,Karnataka,SMB
+C00938,Cust_IXAW6,Hyderabad,Telangana,Retail
+C00939,Cust_QGV3D,Bengaluru,Karnataka,Corporate
+C00940,Cust_VWCHM,Ahmedabad,Gujarat,Corporate
+C00941,Cust_L9UE4,Pune,Maharashtra,Retail
+C00942,Cust_1VMEF,Delhi,Delhi,Retail
+C00943,Cust_GNFIU,Pune,Maharashtra,Retail
+C00944,Cust_D4W1A,Mumbai,Maharashtra,Corporate
+C00945,Cust_CA7ZV,Ahmedabad,Gujarat,Retail
+C00946,Cust_O31YH,Chennai,Tamil Nadu,Retail
+C00947,Cust_SO7VB,Chennai,Tamil Nadu,Retail
+C00948,Cust_ZWD3K,Mumbai,Maharashtra,Retail
+C00949,Cust_AIETD,Pune,Maharashtra,Retail
+C00950,Cust_59SQW,Kolkata,West Bengal,Retail
+C00951,Cust_JG2Y8,Delhi,Delhi,Retail
+C00952,Cust_RF7BN,Ahmedabad,Gujarat,Retail
+C00953,Cust_PM21B,Delhi,Delhi,Corporate
+C00954,Cust_7G2RE,Hyderabad,Telangana,SMB
+C00955,Cust_ZVLHY,Delhi,Delhi,Retail
+C00956,Cust_IDIIO,Kolkata,West Bengal,Corporate
+C00957,Cust_NHQR6,Delhi,Delhi,Retail
+C00958,Cust_HVGNQ,Mumbai,Maharashtra,Retail
+C00959,Cust_W9HEY,Delhi,Delhi,Retail
+C00960,Cust_KDQP1,Hyderabad,Telangana,Retail
+C00961,Cust_5V2WW,Delhi,Delhi,Retail
+C00962,Cust_UTIOS,Mumbai,Maharashtra,Retail
+C00963,Cust_V4K00,Delhi,Delhi,Retail
+C00964,Cust_IPI78,Delhi,Delhi,Corporate
+C00965,Cust_6PB90,Lucknow,Uttar Pradesh,Retail
+C00966,Cust_BTR23,Jaipur,Rajasthan,Retail
+C00967,Cust_RC1YO,Ahmedabad,Gujarat,Corporate
+C00968,Cust_EKXDR,Delhi,Delhi,Corporate
+C00969,Cust_FQUV9,Chennai,Tamil Nadu,Retail
+C00970,Cust_15O2N,Ahmedabad,Gujarat,Retail
+C00971,Cust_ZAWNY,Ahmedabad,Gujarat,Retail
+C00972,Cust_BPJ8T,Jaipur,Rajasthan,Retail
+C00973,Cust_2C50B,Delhi,Delhi,Retail
+C00974,Cust_5DNWN,Kolkata,West Bengal,Retail
+C00975,Cust_XZU1E,Mumbai,Maharashtra,Corporate
+C00976,Cust_IER7U,Kolkata,West Bengal,Retail
+C00977,Cust_11L6S,Delhi,Delhi,SMB
+C00978,Cust_JCMRS,Pune,Maharashtra,Corporate
+C00979,Cust_QT36Q,Bengaluru,Karnataka,SMB
+C00980,Cust_2837C,Kolkata,West Bengal,Retail
+C00981,Cust_DOG8C,Ahmedabad,Gujarat,Corporate
+C00982,Cust_JZR5S,Mumbai,Maharashtra,Retail
+C00983,Cust_K8TEM,Hyderabad,Telangana,Retail
+C00984,Cust_0AGA2,Ahmedabad,Gujarat,Retail
+C00985,Cust_XOMXL,Jaipur,Rajasthan,Retail
+C00986,Cust_XTTQU,Lucknow,Uttar Pradesh,Corporate
+C00987,Cust_GJR81,Chennai,Tamil Nadu,Corporate
+C00988,Cust_FK8WF,Hyderabad,Telangana,Retail
+C00989,Cust_K94YX,Jaipur,Rajasthan,Retail
+C00990,Cust_FE9UP,Mumbai,Maharashtra,Retail
+C00991,Cust_GUBLM,Kolkata,West Bengal,Retail
+C00992,Cust_Q9TEA,Kolkata,West Bengal,Corporate
+C00993,Cust_187F8,Ahmedabad,Gujarat,Retail
+C00994,Cust_9LZRK,Jaipur,Rajasthan,SMB
+C00995,Cust_Y207M,Lucknow,Uttar Pradesh,Retail
+C00996,Cust_06FTL,Bengaluru,Karnataka,Retail
+C00997,Cust_WHMLV,Pune,Maharashtra,Retail
+C00998,Cust_VH7KA,Delhi,Delhi,Retail
+C00999,Cust_4Y89O,Jaipur,Rajasthan,Retail
+C01000,Cust_LV76M,Ahmedabad,Gujarat,Corporate
+C01001,Cust_ZPNAM,Mumbai,Maharashtra,Corporate
+C01002,Cust_95D0P,Chennai,Tamil Nadu,Retail
+C01003,Cust_2K38P,Pune,Maharashtra,Retail
+C01004,Cust_FVDHR,Pune,Maharashtra,Retail
+C01005,Cust_9C81D,Jaipur,Rajasthan,Retail
+C01006,Cust_WJGQU,Pune,Maharashtra,Retail
+C01007,Cust_H3KR3,Mumbai,Maharashtra,Retail
+C01008,Cust_4KUQA,Chennai,Tamil Nadu,Corporate
+C01009,Cust_FKXWE,Hyderabad,Telangana,Retail
+C01010,Cust_PRYIE,Chennai,Tamil Nadu,SMB
+C01011,Cust_R8VNR,Chennai,Tamil Nadu,Retail
+C01012,Cust_5WRYE,Pune,Maharashtra,SMB
+C01013,Cust_0AJUF,Jaipur,Rajasthan,Retail
+C01014,Cust_5EFJP,Ahmedabad,Gujarat,Retail
+C01015,Cust_BKXCG,Kolkata,West Bengal,SMB
+C01016,Cust_1VGLL,Mumbai,Maharashtra,Retail
+C01017,Cust_JZNTM,Chennai,Tamil Nadu,Retail
+C01018,Cust_ASNRM,Mumbai,Maharashtra,Retail
+C01019,Cust_DFHG6,Mumbai,Maharashtra,SMB
+C01020,Cust_Y84ZZ,Lucknow,Uttar Pradesh,Corporate
+C01021,Cust_P6EEA,Bengaluru,Karnataka,Retail
+C01022,Cust_LN36V,Kolkata,West Bengal,Retail
+C01023,Cust_GK0EE,Kolkata,West Bengal,SMB
+C01024,Cust_YLH9P,Mumbai,Maharashtra,Retail
+C01025,Cust_C11BD,Bengaluru,Karnataka,Retail
+C01026,Cust_VQ6BK,Jaipur,Rajasthan,Retail
+C01027,Cust_127H6,Hyderabad,Telangana,Retail
+C01028,Cust_YBF0J,Mumbai,Maharashtra,Retail
+C01029,Cust_MFS0I,Lucknow,Uttar Pradesh,Retail
+C01030,Cust_C31TZ,Lucknow,Uttar Pradesh,Retail
+C01031,Cust_G1A07,Chennai,Tamil Nadu,Retail
+C01032,Cust_4RZGY,Jaipur,Rajasthan,Retail
+C01033,Cust_GMNHI,Bengaluru,Karnataka,Retail
+C01034,Cust_1LQSR,Bengaluru,Karnataka,Corporate
+C01035,Cust_ZUBLE,Kolkata,West Bengal,Retail
+C01036,Cust_Q0Y4I,Chennai,Tamil Nadu,Retail
+C01037,Cust_K4GC4,Pune,Maharashtra,SMB
+C01038,Cust_7NAYY,Ahmedabad,Gujarat,Retail
+C01039,Cust_PXDFO,Pune,Maharashtra,Retail
+C01040,Cust_906GN,Lucknow,Uttar Pradesh,Retail
+C01041,Cust_MV9E4,Delhi,Delhi,Corporate
+C01042,Cust_KZUJ2,Ahmedabad,Gujarat,SMB
+C01043,Cust_MY89S,Pune,Maharashtra,SMB
+C01044,Cust_1DJRW,Mumbai,Maharashtra,Corporate
+C01045,Cust_B03RA,Mumbai,Maharashtra,Retail
+C01046,Cust_NYFWD,Mumbai,Maharashtra,Retail
+C01047,Cust_XSRQK,Bengaluru,Karnataka,Retail
+C01048,Cust_RJM4T,Ahmedabad,Gujarat,Retail
+C01049,Cust_95EQ4,Hyderabad,Telangana,Retail
+C01050,Cust_QBU4K,Ahmedabad,Gujarat,Retail
+C01051,Cust_REZRD,Mumbai,Maharashtra,Retail
+C01052,Cust_XYUR4,Ahmedabad,Gujarat,Corporate
+C01053,Cust_CJVNY,Jaipur,Rajasthan,Retail
+C01054,Cust_LBB4M,Chennai,Tamil Nadu,Retail
+C01055,Cust_A6MDM,Lucknow,Uttar Pradesh,Retail
+C01056,Cust_OCIIL,Kolkata,West Bengal,Retail
+C01057,Cust_6CKMA,Bengaluru,Karnataka,Retail
+C01058,Cust_BXPSP,Kolkata,West Bengal,Retail
+C01059,Cust_ZV9NO,Hyderabad,Telangana,Retail
+C01060,Cust_DRYHR,Lucknow,Uttar Pradesh,Corporate
+C01061,Cust_FK8HW,Kolkata,West Bengal,SMB
+C01062,Cust_4TKB9,Bengaluru,Karnataka,Retail
+C01063,Cust_2W8ZU,Pune,Maharashtra,Retail
+C01064,Cust_MC2RH,Lucknow,Uttar Pradesh,Retail
+C01065,Cust_XK2PT,Bengaluru,Karnataka,SMB
+C01066,Cust_OJSYT,Delhi,Delhi,Retail
+C01067,Cust_WSGRX,Hyderabad,Telangana,Retail
+C01068,Cust_JW346,Ahmedabad,Gujarat,Corporate
+C01069,Cust_0CHQI,Lucknow,Uttar Pradesh,Retail
+C01070,Cust_4O46W,Chennai,Tamil Nadu,Retail
+C01071,Cust_JKFYI,Pune,Maharashtra,Retail
+C01072,Cust_EGI3Q,Delhi,Delhi,Retail
+C01073,Cust_9P6HJ,Jaipur,Rajasthan,Retail
+C01074,Cust_J2XG4,Hyderabad,Telangana,Retail
+C01075,Cust_2B6LK,Ahmedabad,Gujarat,Corporate
+C01076,Cust_6ONXD,Bengaluru,Karnataka,Retail
+C01077,Cust_IUSEX,Mumbai,Maharashtra,Retail
+C01078,Cust_87J5I,Lucknow,Uttar Pradesh,Retail
+C01079,Cust_1L303,Bengaluru,Karnataka,Corporate
+C01080,Cust_7HDHJ,Delhi,Delhi,Retail
+C01081,Cust_JVRN8,Pune,Maharashtra,Retail
+C01082,Cust_TRIJ2,Kolkata,West Bengal,Retail
+C01083,Cust_NZ3A8,Mumbai,Maharashtra,Corporate
+C01084,Cust_B02B7,Lucknow,Uttar Pradesh,Retail
+C01085,Cust_JNXZ6,Delhi,Delhi,Retail
+C01086,Cust_TIPA8,Bengaluru,Karnataka,Retail
+C01087,Cust_K71K4,Chennai,Tamil Nadu,Corporate
+C01088,Cust_6W51O,Mumbai,Maharashtra,Retail
+C01089,Cust_JC2R0,Hyderabad,Telangana,Retail
+C01090,Cust_Z533Z,Kolkata,West Bengal,Corporate
+C01091,Cust_CP0TL,Jaipur,Rajasthan,SMB
+C01092,Cust_1XGPX,Hyderabad,Telangana,Retail
+C01093,Cust_OWLCF,Hyderabad,Telangana,SMB
+C01094,Cust_Z1XEV,Jaipur,Rajasthan,Retail
+C01095,Cust_2LR0J,Pune,Maharashtra,Retail
+C01096,Cust_32HOG,Lucknow,Uttar Pradesh,Corporate
+C01097,Cust_85I87,Pune,Maharashtra,Retail
+C01098,Cust_W69HZ,Lucknow,Uttar Pradesh,Retail
+C01099,Cust_BWVF8,Mumbai,Maharashtra,Retail
+C01100,Cust_8EZP7,Mumbai,Maharashtra,Retail
+C01101,Cust_3RIH8,Ahmedabad,Gujarat,Retail
+C01102,Cust_KRE4V,Chennai,Tamil Nadu,Retail
+C01103,Cust_0GG2B,Chennai,Tamil Nadu,Corporate
+C01104,Cust_IQIUX,Chennai,Tamil Nadu,Retail
+C01105,Cust_AELYY,Bengaluru,Karnataka,Retail
+C01106,Cust_Z0JDC,Pune,Maharashtra,SMB
+C01107,Cust_7QMVY,Kolkata,West Bengal,Retail
+C01108,Cust_Z3ASN,Lucknow,Uttar Pradesh,Retail
+C01109,Cust_YE6BG,Pune,Maharashtra,Retail
+C01110,Cust_S75EL,Mumbai,Maharashtra,Retail
+C01111,Cust_PJL9R,Jaipur,Rajasthan,Retail
+C01112,Cust_07K5W,Chennai,Tamil Nadu,Retail
+C01113,Cust_SPF0R,Chennai,Tamil Nadu,Retail
+C01114,Cust_U7WPG,Mumbai,Maharashtra,Retail
+C01115,Cust_IBJZP,Hyderabad,Telangana,Retail
+C01116,Cust_BMZRR,Ahmedabad,Gujarat,Corporate
+C01117,Cust_ED5GG,Mumbai,Maharashtra,Corporate
+C01118,Cust_3UXH9,Jaipur,Rajasthan,Retail
+C01119,Cust_SUOC1,Hyderabad,Telangana,Retail
+C01120,Cust_5AYYO,Bengaluru,Karnataka,SMB
+C01121,Cust_7DLBQ,Lucknow,Uttar Pradesh,Retail
+C01122,Cust_Q8VA8,Ahmedabad,Gujarat,Corporate
+C01123,Cust_8L008,Lucknow,Uttar Pradesh,Retail
+C01124,Cust_E52K2,Lucknow,Uttar Pradesh,SMB
+C01125,Cust_TVDJI,Bengaluru,Karnataka,Retail
+C01126,Cust_D4F2K,Pune,Maharashtra,Retail
+C01127,Cust_ERP3L,Mumbai,Maharashtra,Retail
+C01128,Cust_EX3SR,Lucknow,Uttar Pradesh,Retail
+C01129,Cust_RUP13,Pune,Maharashtra,Retail
+C01130,Cust_GWDS9,Lucknow,Uttar Pradesh,Retail
+C01131,Cust_XZ7SX,Delhi,Delhi,Retail
+C01132,Cust_KP6RF,Bengaluru,Karnataka,Retail
+C01133,Cust_YKIPU,Mumbai,Maharashtra,Retail
+C01134,Cust_CBDPD,Jaipur,Rajasthan,Retail
+C01135,Cust_3MV1A,Lucknow,Uttar Pradesh,Retail
+C01136,Cust_GGOC5,Ahmedabad,Gujarat,Retail
+C01137,Cust_L01Q3,Chennai,Tamil Nadu,Retail
+C01138,Cust_85GG0,Kolkata,West Bengal,Retail
+C01139,Cust_JYPAO,Lucknow,Uttar Pradesh,Retail
+C01140,Cust_GRY58,Hyderabad,Telangana,Retail
+C01141,Cust_0K3WY,Lucknow,Uttar Pradesh,Retail
+C01142,Cust_2DEG3,Pune,Maharashtra,Retail
+C01143,Cust_4HXXP,Delhi,Delhi,Retail
+C01144,Cust_GKQRA,Jaipur,Rajasthan,SMB
+C01145,Cust_60QRA,Mumbai,Maharashtra,Retail
+C01146,Cust_VHU4B,Ahmedabad,Gujarat,Retail
+C01147,Cust_D4POR,Hyderabad,Telangana,Retail
+C01148,Cust_VTKRR,Lucknow,Uttar Pradesh,Retail
+C01149,Cust_0765I,Lucknow,Uttar Pradesh,Retail
+C01150,Cust_TPLC6,Hyderabad,Telangana,Retail
+C01151,Cust_6EWXQ,Pune,Maharashtra,SMB
+C01152,Cust_AKGMI,Pune,Maharashtra,SMB
+C01153,Cust_VY74Z,Delhi,Delhi,Corporate
+C01154,Cust_EKZ83,Ahmedabad,Gujarat,Retail
+C01155,Cust_224WK,Kolkata,West Bengal,Retail
+C01156,Cust_YEHVD,Bengaluru,Karnataka,Retail
+C01157,Cust_7RIU9,Pune,Maharashtra,SMB
+C01158,Cust_5MF36,Kolkata,West Bengal,Retail
+C01159,Cust_3MEIU,Hyderabad,Telangana,Retail
+C01160,Cust_JMMB5,Ahmedabad,Gujarat,Retail
+C01161,Cust_645VD,Chennai,Tamil Nadu,Retail
+C01162,Cust_7PQ4D,Hyderabad,Telangana,SMB
+C01163,Cust_2V4DU,Bengaluru,Karnataka,Retail
+C01164,Cust_DW56F,Jaipur,Rajasthan,Retail
+C01165,Cust_Z1R5F,Chennai,Tamil Nadu,Retail
+C01166,Cust_ME4PO,Kolkata,West Bengal,Corporate
+C01167,Cust_I3MSD,Hyderabad,Telangana,Retail
+C01168,Cust_ZOWI1,Kolkata,West Bengal,Corporate
+C01169,Cust_PI2OO,Jaipur,Rajasthan,Retail
+C01170,Cust_8SY7P,Ahmedabad,Gujarat,Corporate
+C01171,Cust_ZSCMO,Hyderabad,Telangana,Retail
+C01172,Cust_POB7F,Mumbai,Maharashtra,Retail
+C01173,Cust_CWZXS,Lucknow,Uttar Pradesh,Retail
+C01174,Cust_P5Z5Z,Chennai,Tamil Nadu,Retail
+C01175,Cust_6AKT7,Kolkata,West Bengal,Retail
+C01176,Cust_QHT2X,Pune,Maharashtra,Corporate
+C01177,Cust_52OHK,Kolkata,West Bengal,Retail
+C01178,Cust_TOZ5S,Hyderabad,Telangana,Retail
+C01179,Cust_KDTS1,Jaipur,Rajasthan,Retail
+C01180,Cust_A6TJ3,Mumbai,Maharashtra,Retail
+C01181,Cust_09DCN,Chennai,Tamil Nadu,Corporate
+C01182,Cust_MBXEK,Jaipur,Rajasthan,Retail
+C01183,Cust_Q929U,Hyderabad,Telangana,SMB
+C01184,Cust_4IKY3,Jaipur,Rajasthan,SMB
+C01185,Cust_YZSIL,Lucknow,Uttar Pradesh,Retail
+C01186,Cust_G2QFP,Lucknow,Uttar Pradesh,Retail
+C01187,Cust_CC5RQ,Pune,Maharashtra,Corporate
+C01188,Cust_YOU25,Kolkata,West Bengal,Retail
+C01189,Cust_RPP7R,Lucknow,Uttar Pradesh,Retail
+C01190,Cust_3FEZE,Pune,Maharashtra,Retail
+C01191,Cust_5EHR0,Jaipur,Rajasthan,Retail
+C01192,Cust_N8VOE,Jaipur,Rajasthan,Corporate
+C01193,Cust_KSEKN,Lucknow,Uttar Pradesh,Retail
+C01194,Cust_R2FVB,Chennai,Tamil Nadu,Retail
+C01195,Cust_6H3RE,Chennai,Tamil Nadu,SMB
+C01196,Cust_CBRLQ,Kolkata,West Bengal,Corporate
+C01197,Cust_2RZV1,Kolkata,West Bengal,Retail
+C01198,Cust_W1YF0,Jaipur,Rajasthan,Corporate
+C01199,Cust_2XOIO,Bengaluru,Karnataka,Retail
+C01200,Cust_BYPJD,Jaipur,Rajasthan,Corporate
