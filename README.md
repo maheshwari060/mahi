@@ -25,3 +25,7 @@ This project simulates real-world banking operations where analysts review trans
 
 ## 🚀 Outcome
 Improved data accuracy and helped in identifying potential risk patterns in transactions.
+
+## Image
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/12512b1f-e5e3-4d4e-9e99-43ca9389e88c" />
+
