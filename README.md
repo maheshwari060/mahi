@@ -1,4 +1,4 @@
-# 📊 Retail Sales Analysis Project  
+# 📊 Transaction Monitoring & Fraud Detection Dashboard 
 An end-to-end Data Analytics project using **Python, SQL, and Power BI** to analyze retail sales performance, uncover business insights, and build a complete analytics pipeline.
 
 ---
